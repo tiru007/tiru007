@@ -49,5 +49,5 @@
 ## 🤝🏻 Let's Keep in Touch
 
 <p align="left">
-<a href="https://www.linkedin.com/in/tirumala-rao-s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tirumala-rao-s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-tiru-blue&logo=linkedin"></a>
 </a>
