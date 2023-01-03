@@ -3,7 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lukemurraynz.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/lukemurraynz?style=social)
 
-# Hi, I'm Luke Murray <img src="https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/computer-internet.gif " width="30px">
+# Hi, I'm Tirumala Rao S <img src="https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/wave.gif" width="30px"> <img src="https://raw.githubusercontent.com/lukemurraynz/lukemurraynz/master/computer-internet.gif " width="30px">
 
 ---
 
