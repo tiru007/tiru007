@@ -7,11 +7,16 @@
 
 ---
 
-Information systems professional with experience in support, maintenance and technical delivery in enterprise environments. I am skilled in working with business stakeholders; other IS teams and service providers to achieve business outcomes.
-
-I have a passion for not only the technical but service management and soft skills such as leading others as well. I am continuously learning and looking for areas of improvement! Information Technology and the way it can empower and help improve our lives; it is not just a career to me it is a hobby and way of life.
-
-You'll here find my public and forked repositories. Feel free to contact me if you have any suggestions or questions.
+• 14+ years of professional experiences in the IT industry. Involved in various phases of software development life cycle. 
+• Working as a Consultant in Microsoft, India for the past 6 years (since July 2016), responsible in Cloud Migrations, Modernization, Solution Designing and Infra provisioning of Azure cloud, .Net and Microsoft 365-based solution 
+• Involved and handled design and architecture implementation of Azure cloud-based solution, Hybrid solutions, handling T2T migrations and Modern Workplace offerings delivery engagements. As Development Lead and Client Co-Ordinator, proficiently handled various projects and clients. 
+• Specialized in Solution Architecture and Design, Hands-on Full Stack development, and Delivery using Microsoft technologies like Azure IaaS, Azure Web PaaS, Azure Web SaaS, Asp.Net, SharePoint, Office 365, MS Teams, PowerShell, Azure DevOps, and client-side technologies like Typescript and React. 
+• Strong experience in multiple project life cycle methodologies (Agile/Scrum/Waterfall), Architectural styles and patterns (DDD, Clean Architecture, Microservices, Serverless, Event Driven), Secure development life cycle (SDL) and Deep understanding of Azure DevOps framework, tools and metrics for build, test, and deployment automation. 
+• Delivered various workshops in App Development, App Authentication, M365 Information Architecture, Security and Compliance, CI/CD using Azure DevOps. 
+• Expertise in Enterprise Applications delivery, Digital Transformations and Modernize the businesses, and SharePoint/ Office 365 migrations. 
+• Outstanding Consulting and Delivery track record. 
+• Proven capability to successfully lead and manage projects and customers efficiently and effectively. 
+• Exceptional proven ability to meet customer requirements and consistently exceeded expectation.
 
 ---
 
@@ -26,23 +31,14 @@ You'll here find my public and forked repositories. Feel free to contact me if y
 
 ---
 
-![Luke's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemurraynz&show_icons=true&langs_count=8)
+![Luke's github top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiru007&show_icons=true&langs_count=8)
 
-![Luke's github stats](https://github-readme-stats.vercel.app/api?username=lukemurraynz&show_icons=true&count_private=true)
+![Luke's github stats](https://github-readme-stats.vercel.app/api?username=tiru007&show_icons=true&count_private=true)
 
 ---
 
 ## 🤝🏻 Let's Keep in Touch
 
 <p align="left">
-<a href="https://luke.geek.nz/"><img alt="Website" src="https://img.shields.io/badge/Website-luke.geek.nz-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ljmurray/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.twitter.com/lukemurraynz/"><img alt="LinkedIn" src="https://img.shields.io/badge/Twitter-lukemurraynz-blue?style=flat-square&logo=twitter"></a>
-<a href="https://www.youtube.com/channel/UCUG3TKDTAZz4UXshGrjBBoQ"><img alt="Youtube" src="https://img.shields.io/badge/youtube-lukemurraynz-blue?style=flat-square&logo=youtube"></a>
-<a href="https://linktr.ee/lukemurray"><img alt="linktr" src="https://img.shields.io/badge/linktr-lukemurray-blue?style=flat-square&logo=linktr"></a>
-
-## 🐦 Latest Tweets
-
-[<img src="https://img.shields.io/badge/-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/lukemurraynz?ref_src=twsrc%5Etfw")
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=lukemurraynz&layout=wide)](https://github.com/gazf/github-readme-twitter)
+<a href="https://www.linkedin.com/in/tirumala-rao-s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lukemurraynz-blue?style=flat-square&logo=linkedin"></a>
+</a>
